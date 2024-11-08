@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "lab03.eim.systems.cs.pub.inreg_preg_colocviu1_acasa"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "lab03.eim.systems.cs.pub.inreg_preg_colocviu1_acasa"
